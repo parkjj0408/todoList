@@ -26,6 +26,7 @@ Java, Spring, MySQL을 사용하여 백엔드를 구성했습니다.
 
 <ERD>
    
-![image](https://github.com/user-attachments/assets/5e007f46-71c2-41a2-b68a-639160f9519a)
+![image](https://github.com/user-attachments/assets/bc5a7445-304f-473c-96e6-af9706998b2f)
+
 
 
