@@ -23,3 +23,5 @@ Java, Spring, MySQL을 사용하여 백엔드를 구성했습니다.
 
 - **DELETE 일정 삭제**  
   비밀번호를 확인한 후, 특정 일정을 삭제할 수 있습니다.  
+
+![image](https://github.com/user-attachments/assets/7af4cf6d-2128-4d04-ba8b-70352bed0606)
