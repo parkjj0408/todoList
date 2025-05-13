@@ -25,5 +25,7 @@ Java, Spring, MySQL을 사용하여 백엔드를 구성했습니다.
   비밀번호를 확인한 후, 특정 일정을 삭제할 수 있습니다.  
 
 <ERD>
-![image](https://github.com/user-attachments/assets/0e4cce8f-3118-4312-8df7-aab6b695a50b)
+   
+![image](https://github.com/user-attachments/assets/5e007f46-71c2-41a2-b68a-639160f9519a)
+
 
