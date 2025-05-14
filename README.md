@@ -32,7 +32,10 @@ Java, Spring, MySQL을 사용하여 백엔드를 구성했습니다.
 
 
 
-<ERD>
+
+
+📌.ERD
+
 
 
    
