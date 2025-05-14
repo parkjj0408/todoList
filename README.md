@@ -26,8 +26,11 @@ Java, Spring, MySQL을 사용하여 백엔드를 구성했습니다.
 
 
 
-   <API명세서>
-  https://www.notion.so/API-1f23a6e1469d80fcbf4dd994935698b1
+  📌.API명세서
+
+  ![image](https://github.com/user-attachments/assets/b5643040-f9ea-460f-b9fd-288d90dd234d)
+
+
 
 <ERD>
 
