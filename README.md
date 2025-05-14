@@ -27,6 +27,7 @@ Java, Spring, MySQL을 사용하여 백엔드를 구성했습니다.
 
 
 📌.API명세서
+아래는 주요 API에 대한 명세입니다.
 
   ![image](https://github.com/user-attachments/assets/b5643040-f9ea-460f-b9fd-288d90dd234d)
 
@@ -35,6 +36,7 @@ Java, Spring, MySQL을 사용하여 백엔드를 구성했습니다.
 
 
 📌.ERD
+본 프로젝트에서 사용된 데이터베이스 테이블 구조입니다.
 
 
 
